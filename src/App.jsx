@@ -1,12 +1,12 @@
 import React from "react";
 import NavBar from "./components/NavBar";
 import Hero from "./components/Hero";
-import About from "./components/About1";
 import Technologies from "./components/Technologies";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Achievements from "./components/Achievements";
+import About1 from "./components/About1";
 
 
 const App = () => {
@@ -22,7 +22,7 @@ const App = () => {
       <div className="container mx-auto px-8">
       <NavBar/>
       <Hero/>
-      <About/>
+      <About1/>
       <Technologies/>
       <Projects/>
       <Experience/>
