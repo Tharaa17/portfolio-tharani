@@ -129,7 +129,7 @@ export const ACHIEVEMENTS = [
 
 export const CONTACT = {
   address: "Colombo, Sri Lanka ",
-  phoneNo: "071 281 1725 ",
+  phoneNo: "+94 71 281 1725 ",
   email: "tharanidulyana19@gmail.com",
   
 };
